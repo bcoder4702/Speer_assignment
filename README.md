@@ -1,7 +1,7 @@
 <h5  align ="center"> 
   <H1 align ="center" > Speer- Assesment  </h1>
 <br/>
-
+  
 ##  Technologies used
 
 This project was created using the following technologies.
@@ -50,5 +50,7 @@ PUT /api/user/notes/:id: update an existing note by ID for the authenticated use
 DELETE /api/user/notes/:id: delete a note by ID for the authenticated user.
 POST /api/notes/:id/share: share a note with another user for the authenticated user.
 GET /api/user/search: search for notes based on keywords for the authenticated user.
+
+please find the api collection attached in github repository as postman collection(notesappcollection)
 
 <br/>
